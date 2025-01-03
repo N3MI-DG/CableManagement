@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="240" height="247" xmlns="http://www.w3.org/2000/svg">
 <rect fill="#FFFFFF" height="247"  width="240" x="0" y="0"/>
- <g transform="scale(.43353 -.43353) translate(278.07 -28.067)" fill="none" stroke-width=".35">
+ <g transform="scale(.43353 -.43353) translate(278.07 -28.067)" fill="none" stroke-width=".5">
   <!-- hidden lines -->
-  <g stroke="#00f" stroke-dasharray="0.35,0.35">
+  <g stroke="#00f" stroke-dasharray="0.5,0.5">
    <path d="m64.183-9.8h9.5616"/>
    <path d="m-64.183-9.8h128.37"/>
    <path d="m73.745-9.8h4.755"/>
