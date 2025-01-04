@@ -234,3 +234,7 @@ Select the correct umbilical plate configuration from the below tables.
 </details>
 
 
+___
+Credits goto
+- [viesturz](https://github.com/viesturz) for the Tapchanger TPU umbilicals, which were the inspiration for this system.
+- [hartk1213](https://github.com/hartk1213) as the umbilical plate aesthetics were recreated based on his Micron R1 exhaust plate.
