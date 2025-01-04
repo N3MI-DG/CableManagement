@@ -48,6 +48,7 @@ To choose the correct umbilical plate for your setup there are 6 things to consi
 - How the docks are positioned on the printer, Left, Right, Centered or Split.
 
 The Modular Docks can have 2 different widths. Make sure to select the correct width for the type of tool you are using.
+
 60mm Wide Docks
 - Anthead
 - Dragon Burner
