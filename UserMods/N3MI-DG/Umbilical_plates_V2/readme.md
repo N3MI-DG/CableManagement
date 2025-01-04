@@ -1,4 +1,6 @@
-# INSERT NAME HERE
+
+<details>
+
 # Voron 250 TPU 60mm Dock
 | Tool Count | Left | Right | Center | Split |
 |-|-|-|-|-|
@@ -6,6 +8,9 @@
 | 3 | - | - |[<img src="images/Voron_250_60mm_3tools_center_TPU.svg">](STL/Plates/Voron/250/3%20Tools/60mm%20Wide%20Dock/TPU/Center/) |[<img src="images/Voron_250_60mm_3tools_split_TPU.svg">](STL/Plates/Voron/250/3%20Tools/60mm%20Wide%20Dock/TPU/Split/) |
 | 4 | - | - |[<img src="images/Voron_250_60mm_4tools_center_TPU.svg">](STL/Plates/Voron/250/4%20Tools/60mm%20Wide%20Dock/TPU/Center/) |[<img src="images/Voron_250_60mm_4tools_split_TPU.svg">](STL/Plates/Voron/250/4%20Tools/60mm%20Wide%20Dock/TPU/Split/) |
 | 5 | - | - | - |[<img src="images/Voron_250_60mm_5tools_split_TPU.svg">](STL/Plates/Voron/250/5%20Tools/60mm%20Wide%20Dock/TPU/Split/) |
+
+</details>
+
 # Voron 250 TPU 76mm Dock
 | Tool Count | Left | Right | Center | Split |
 |-|-|-|-|-|
