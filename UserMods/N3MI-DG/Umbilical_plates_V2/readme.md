@@ -55,8 +55,7 @@ If there is too much friction while feeding the spring steel you can add a dab o
 <br/>Feed the spring steel through the terminator and do 2 bends at ~30 degrees. Feed the spring steel back until the bend is inside the slot for the spring steel.<br/>![](images/bend3.jpg) ![](images/terminator.jpg)
 <br/>Mount the bowden tube and cable in the strain relief and inset the strain relief into the plate. This is the time to determine the length you need. With the strain relief inserted in the back plate, run your cable to the tool while it is at the largest travel position for that specific tool. For instance, T0 would be at MAX_X and MIN_Y, The last tool would be at MIN_X and MIN_Y. Make sure that at that position there is minimal slack, but there should be some. You do not want the umbilical to be putting strain on the toolhead. Then work your way back from the toolhead and insert the bowden tube and cable into the termination print, and then the clips (which can be spaced evenly). If at any point there is too little or too much slack, pull out the strain relief and adjust it.
 ![](images/umbilical.jpg)
-<br/>Optionally you can add some heat shrink (with glue) to keep the clips from moving.
-![](images/shrink.jpg)
+<br/>Optionally you can add some heat shrink (with glue) to keep the clips from moving.<br/>![](images/shrink.jpg)
 ### Piano Wire
 The procedure for piano wire is much the same as spring steel except the wire gets 2 90 degree bends at the Relief and Terminator.
 ![](images/wire_1.jpg)
